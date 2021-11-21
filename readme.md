@@ -1,1 +1,1 @@
-this is a website entailing the recipe required to feed a dog
+this is a website entailing the recipes
